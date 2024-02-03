@@ -1,0 +1,17 @@
+{
+  "name": "dustyschool-7.2-wholefullstack-training",
+  "version": "1.0.0",
+  "description": "Не подглядывая в исходный код бека из задания Сложные вычисления, напишите на express бекенд к вашему фронтенду из этого задания",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "2.8.5",
+    "express": "4.18.2"
+  }
+}
