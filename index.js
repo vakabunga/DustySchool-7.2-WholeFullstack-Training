@@ -13,7 +13,7 @@ app.get('/', (req, res) => {
 
   const sum = +params.first + +params.second;
 
-  res.send(String(sum));
+  res.json(String(sum));
 
   res.end();
 })
